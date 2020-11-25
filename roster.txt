@@ -1,0 +1,67 @@
+# Please be careful with the formatting of the file ;)
+
+# Who's who
+bavery = Brian Avery <bavery@redhat.com>
+jwendell = Jonh Wendell <jwendell@redhat.com>
+twalsh = Tim Walsh <twalsh@redhat.com>
+mluksa = Marko Luksa <mluksa@redhat.com>
+rcernich = Rob Cernich <rcernich@redhat.com>
+ddolguik = Dmitri Dolguikh <ddolguik@redhat.com>
+dgrimm = Daniel Grimm <dgrimm@redhat.com>
+brison = Brad Ison <brison@redhat.com>
+shaansar = Shamsher Ansari <shaansar@redhat.com>
+kconner = Kevin Conner <kconner@redhat.com>
+
+# year 2021
+01 bavery
+02 jwendell
+03 twalsh
+04 mluksa
+05 rcernich
+06 ddolguikh
+07 dgrimm
+08 brison
+09 shaansar
+10 kconner
+11 bavery
+12 jwendell
+13 twalsh
+14 mluksa
+15 rcernich
+16 ddolguikh
+17 dgrimm
+18 brison
+19 shaansar
+20 kconner
+21 bavery
+22 jwendell
+23 twalsh
+24 mluksa
+25 rcernich
+26 ddolguikh
+27 dgrimm
+28 brison
+29 shaansar
+30 kconner
+31 bavery
+32 jwendell
+33 twalsh
+34 mluksa
+35 rcernich
+36 ddolguikh
+37 dgrimm
+38 brison
+39 shaansar
+40 kconner
+41 bavery
+42 jwendell
+43 twalsh
+44 mluksa
+45 rcernich
+46 ddolguikh
+47 dgrimm
+48 brison
+49 shaansar
+50 kconner
+51 bavery
+52 jwendell
