@@ -18,7 +18,7 @@ kconner = Kevin Conner <kconner@redhat.com>
 03 twalsh
 04 mluksa
 05 rcernich
-06 ddolguikh
+06 ddolguik
 07 dgrimm
 08 brison
 09 shaansar
@@ -28,7 +28,7 @@ kconner = Kevin Conner <kconner@redhat.com>
 13 twalsh
 14 mluksa
 15 rcernich
-16 ddolguikh
+16 ddolguik
 17 dgrimm
 18 brison
 19 shaansar
@@ -38,7 +38,7 @@ kconner = Kevin Conner <kconner@redhat.com>
 23 twalsh
 24 mluksa
 25 rcernich
-26 ddolguikh
+26 ddolguik
 27 dgrimm
 28 brison
 29 shaansar
@@ -48,7 +48,7 @@ kconner = Kevin Conner <kconner@redhat.com>
 33 twalsh
 34 mluksa
 35 rcernich
-36 ddolguikh
+36 ddolguik
 37 dgrimm
 38 brison
 39 shaansar
@@ -58,7 +58,7 @@ kconner = Kevin Conner <kconner@redhat.com>
 43 twalsh
 44 mluksa
 45 rcernich
-46 ddolguikh
+46 ddolguik
 47 dgrimm
 48 brison
 49 shaansar
