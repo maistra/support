@@ -13,55 +13,54 @@ shaansar = Shamsher Ansari <shaansar@redhat.com>
 kconner = Kevin Conner <kconner@redhat.com>
 
 # year 2021
-01 bavery
-02 jwendell
-03 twalsh
-04 mluksa
-05 rcernich
-06 ddolguik
-07 dgrimm
-08 brison
-09 shaansar
-10 kconner
-11 bavery
-12 jwendell
-13 twalsh
-14 mluksa
-15 rcernich
-16 ddolguik
-17 dgrimm
-18 brison
-19 shaansar
-20 kconner
-21 bavery
-22 jwendell
-23 twalsh
-24 mluksa
-25 rcernich
-26 ddolguik
-27 dgrimm
-28 brison
-29 shaansar
-30 kconner
-31 bavery
-32 jwendell
-33 twalsh
-34 mluksa
-35 rcernich
-36 ddolguik
-37 dgrimm
-38 brison
-39 shaansar
-40 kconner
-41 bavery
-42 jwendell
-43 twalsh
-44 mluksa
-45 rcernich
-46 ddolguik
-47 dgrimm
-48 brison
-49 shaansar
-50 kconner
-51 bavery
-52 jwendell
+02 bavery, kconner
+03 jwendell, rcernich
+04 twalsh, dgrimm
+05 mluksa, ddolguik
+06 brison, shaansar
+07 bavery, kconner
+08 jwendell, rcernich
+09 twalsh, dgrimm
+10 mluksa, ddolguik
+11 brison, shaansar
+12 bavery, kconner
+13 jwendell, rcernich
+14 twalsh, dgrimm
+15 mluksa, ddolguik
+16 brison, shaansar
+17 bavery, kconner
+18 jwendell, rcernich
+19 twalsh, dgrimm
+20 mluksa, ddolguik
+21 brison, shaansar
+22 bavery, kconner
+23 jwendell, rcernich
+24 twalsh, dgrimm
+25 mluksa, ddolguik
+26 brison, shaansar
+27 bavery, kconner
+28 jwendell, rcernich
+29 twalsh, dgrimm
+30 mluksa, ddolguik
+31 brison, shaansar
+32 bavery, kconner
+33 jwendell, rcernich
+34 twalsh, dgrimm
+35 mluksa, ddolguik
+36 brison, shaansar
+37 bavery, kconner
+38 jwendell, rcernich
+39 twalsh, dgrimm
+40 mluksa, ddolguik
+41 brison, shaansar
+42 bavery, kconner
+43 jwendell, rcernich
+44 twalsh, dgrimm
+45 mluksa, ddolguik
+46 brison, shaansar
+47 bavery, kconner
+48 jwendell, rcernich
+49 twalsh, dgrimm
+50 mluksa, ddolguik
+51 brison, shaansar
+52 bavery, kconner
